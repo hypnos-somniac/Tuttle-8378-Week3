@@ -1256,7 +1256,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 356685684}
+  m_Mesh: {fileID: 394339244}
 --- !u!33 &83353152
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -13241,7 +13241,7 @@ GameObject:
   - component: {fileID: 427838717}
   - component: {fileID: 427838716}
   m_Layer: 0
-  m_Name: Plane (6)
+  m_Name: door wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14790,7 +14790,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 394339244}
+  m_Mesh: {fileID: 1765405727}
 --- !u!33 &487708866
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -15661,7 +15661,7 @@ GameObject:
   - component: {fileID: 492482883}
   - component: {fileID: 492482882}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16610,7 +16610,7 @@ GameObject:
   - component: {fileID: 515372628}
   - component: {fileID: 515372627}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: Floor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25904,7 +25904,7 @@ GameObject:
   - component: {fileID: 795188027}
   - component: {fileID: 795188026}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Window wall thing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28182,7 +28182,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1371141710}
+  m_Mesh: {fileID: 709551332}
 --- !u!33 &858622397
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -30588,7 +30588,7 @@ GameObject:
   - component: {fileID: 1010958806}
   - component: {fileID: 1010958805}
   m_Layer: 0
-  m_Name: Plane (4)
+  m_Name: Wall3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34345,7 +34345,7 @@ GameObject:
   - component: {fileID: 1150583827}
   - component: {fileID: 1150583826}
   m_Layer: 0
-  m_Name: Shape
+  m_Name: What
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34414,7 +34414,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -34707,7 +34707,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 89947371}
+  m_Mesh: {fileID: 985968230}
 --- !u!33 &1228367048
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -43936,7 +43936,7 @@ GameObject:
   - component: {fileID: 1380219716}
   - component: {fileID: 1380219715}
   m_Layer: 0
-  m_Name: Plane (5)
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45325,7 +45325,7 @@ GameObject:
   - component: {fileID: 1455078036}
   - component: {fileID: 1455078035}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: Wall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47003,7 +47003,7 @@ GameObject:
   - component: {fileID: 1474818359}
   - component: {fileID: 1474818358}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -57464,7 +57464,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 985968230}
+  m_Mesh: {fileID: 1963247886}
 --- !u!33 &1712195913
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -67769,7 +67769,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 2094368485}
+  m_Mesh: {fileID: 200469866}
 --- !u!33 &1979776759
 MeshFilter:
   m_ObjectHideFlags: 10
